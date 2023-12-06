@@ -198,10 +198,3 @@ select:focus {
   transform: translateX(-50%);
   color:black;
 }
-
-@media only screen and (max-width: 400px) {
-  input,
-  select {
-    width: 120px;
-  }
-}
