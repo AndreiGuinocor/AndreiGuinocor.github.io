@@ -25,7 +25,7 @@ body {
   display: inline-block;
   background-color: rgba(0, 0, 0, 0.3);
   margin: auto;
-  position: relative; /* Added position relative */
+  position: relative;
 }
 
 #mazeContainer #mazeCanvas {
@@ -192,7 +192,7 @@ select:focus {
 #title {
   position: absolute;
   top: 20px; 
-  left: 10%;
+  left: 20%;
   font-family: cursive;
   font-size: 23px;
   transform: translateX(-50%);
