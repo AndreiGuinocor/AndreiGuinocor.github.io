@@ -35,6 +35,7 @@ function changeBrightness(factor, sprite) {
 function displayVictoryMess(moves) {
     document.getElementById("moves").innerHTML = "You Moved " + moves + " Steps.";
     toggleVisablity("Message-Container");
+    
 }
 
 function toggleVisablity(id) {
