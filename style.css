@@ -192,7 +192,7 @@ select:focus {
 #title {
   position: absolute;
   top: 20px; 
-  left: 10%;
+  left: 5%;
   font-family: cursive;
   font-size: 23px;
   transform: translateX(-50%);
